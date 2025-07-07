@@ -6,7 +6,7 @@ const Hero = () => {
       <main>
         <section className="hero">
           <div className="hero-content">
-            <h1>Hi, I'm <span className="highlight">John Doe</span></h1>
+            <h1>Hi, I'm <span className="highlight">John DD</span></h1>
             <p>Full Stack Developer passionate about creating innovative web solutions</p>
             <div className="cta-buttons">
               <a href="#projects" className="btn btn-primary">View My Work</a>
